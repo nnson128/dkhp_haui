@@ -1,5 +1,3 @@
-# Lộ trình học kỳ 7 và 8
-
 ## Học kỳ 7
 1. **Phát triển phần mềm hướng dịch vụ**: 3 tín chỉ ok
 2. **Quản lý dự án công nghệ thông tin**: 3 tín chỉ ok
